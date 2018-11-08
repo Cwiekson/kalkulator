@@ -10,7 +10,7 @@
    printf("Podaj 2 liczbe:");
    scanf("%d", &b);
    printf("suma to %d",a+b);
-   return 0;
+
 }
 
 
