@@ -8,5 +8,4 @@ int main()
     printf("Podaj 2 liczbe:");
     scanf("%d",&b);
     printf("różnica to: %d",a-b);
-    return 0;
 }
