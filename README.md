@@ -11,7 +11,7 @@
    scanf("%d", &b);
    printf("suma to %d",a+b);
    printf("roznica to %d",a-b);
-   printf("roznica to %d",a*b)
+   printf("mnozenie to %d",a*b)
 }return 0;
 
 
